@@ -38,7 +38,6 @@ streamlit run app.py
 ├── app.py               # 主应用代码
 ├── sessions/            # 会话数据存储目录（自动生成）
 │   └── *.json           # 按会话ID命名的JSON文件
-├── .env                 # 环境变量配置文件（可选）
 └── README.md            # 项目说明文档
 ```
 

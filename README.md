@@ -9,6 +9,8 @@
 - **流式交互**：调用DeepSeek模型实现流式回复，模拟真实聊天的即时反馈
 - **本地化存储**：所有会话数据以JSON格式存储在本地`./sessions`目录，支持会话状态实时保存与加载
 - **特色人设**：预设带台湾腔调的闽江大学学生人设，回复风格兼具挑逗、温柔可爱，支持适度轻松的交流风格
+- <img width="2078" height="1179" alt="image" src="https://github.com/user-attachments/assets/8cb1ac3c-91f9-4960-b3b3-9c24212e8896" />
+
 
 ## 环境要求
 - Python 3.7+
